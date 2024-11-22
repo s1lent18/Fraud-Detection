@@ -17,3 +17,5 @@ Anomalies:
   <img src="screenshots/Circular.png" width="250" alt="Circular Layout">
   <img src="screenshots/Spring.png" width="250" alt="Spring Layout">
 </p>
+
+The Red Nodes indicate that the account is used for fraud while the Blue Nodes indicate that the account isn't suspected with any fraudulent Activities
